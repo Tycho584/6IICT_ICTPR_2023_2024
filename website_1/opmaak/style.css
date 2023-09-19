@@ -7,7 +7,7 @@ header, nav, footer, article {
 header, footer {
     margin-left: -8px;
     margin-right: -8px;
-    background-color: none;
+    background-color: none  ;
     color: white;
     padding: 5px;
     text-align: center;
@@ -44,7 +44,7 @@ article {
 
 .menu {
     display: block;
-    width: 70px;
+    width: 70px;    
     background-color: #64F5E6;
     /* lichtblauw */
     text-decoration: none;
